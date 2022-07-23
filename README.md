@@ -16,11 +16,11 @@ You can see my profile at [Codechef](https://www.codechef.com/users/jd_kdcgc)
 
 ## Other Skills
 
-- Languages
+- **Languages**
    - English
    - Hindi
    - Punjabi
-- Soft Skills
+- **Soft Skills**
    - Competitive Programming
    - Data Structures
    - Algorithms
